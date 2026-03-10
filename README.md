@@ -1,52 +1,43 @@
-<h1 align="center">Hi, I'm Sana 👋</h1>
+<h1 align="center">Sana</h1>
 
 <p align="center">
-Data Scientist exploring machine learning, analytics, and real-world data systems
+Data Scientist
 </p>
 
 <p align="center">
-I enjoy turning messy data and ambiguous questions into practical analytical solutions.
+Exploring machine learning, analytics, and real-world data problems.
 </p>
 
----
+<br>
 
 ### About
 
-My work sits at the intersection of **machine learning, analytics, and real-world decision making**.
+I enjoy working on problems where data can reveal patterns, support decisions, and help build useful systems.
 
-I enjoy exploring how data can be used to understand patterns, support better decisions, and build intelligent systems.  
-Most of the projects here are experiments around applied machine learning, data analysis, and practical data science workflows.
+Most of the work here explores applied machine learning, analytics, and experimentation with real-world datasets.
 
----
 
-### What You'll Find Here
+### Projects
 
-This space is where I experiment with ideas and build projects around interesting data problems.
+Some of the projects here explore:
 
-Projects here explore topics such as:
+Customer behavior analysis  
+Machine learning experimentation  
+Natural language processing  
+Predictive modeling
 
-• machine learning models  
-• behavioral and customer data analysis  
-• natural language processing  
-• predictive modeling  
-• experimentation with real-world datasets
 
----
+### Currently
 
-### Current Focus
+Exploring ideas around applied machine learning and practical data science workflows.
 
-Lately I've been exploring problems involving:
 
-• applied machine learning  
-• data-driven decision systems  
-• text and unstructured data  
-• practical analytics workflows
+### Elsewhere
 
----
+LinkedIn
+https://www.linkedin.com/in/sana-m-patekari-b9b9b3188/
 
-## Connect With Me
-
-LinkedIn: https://www.linkedin.com/in/sana-m-patekari-b9b9b3188/
-Email: patekarisana1998@gmail.com
+Email
+patekarisana1998@gmail.com
 
 ---
