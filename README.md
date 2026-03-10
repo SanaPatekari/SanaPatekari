@@ -40,5 +40,3 @@ analytics workflows
 LinkedIn  
 https://linkedin.com/in/sana-m-patekari  
 
-Portfolio  
-https://sanapatekari.github.io/portfolio
