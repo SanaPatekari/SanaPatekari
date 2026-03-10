@@ -1,86 +1,46 @@
-# Hi, I'm Sana Patekari 👋
+<h1 align="center">Hi, I'm Sana 👋</h1>
 
-🎯 Data Scientist | Machine Learning | NLP | Applied Analytics  
+<p align="center">
+Data Scientist exploring machine learning, analytics, and real-world data systems
+</p>
 
-I enjoy working with data to solve real-world problems. My work focuses on building machine learning models, analyzing complex datasets, and developing practical data solutions that generate insights and improve decision-making.
-
----
-
-## About Me
-
-• Master's in Data Science – Michigan Technological University  
-• 3+ years experience in data science and analytics  
-• Interested in Machine Learning, NLP, and Data-driven systems  
-• Open to roles in Data Science, Data Analytics, and Data Engineering  
+<p align="center">
+I enjoy turning messy data and ambiguous questions into practical analytical solutions.
+</p>
 
 ---
 
-## Technical Skills
+### About
 
-**Programming:**  
-Python, SQL, R, SAS, HTML
+My work sits at the intersection of **machine learning, analytics, and real-world decision making**.
 
-**Data Science & Machine Learning:**  
-Scikit-learn, PyTorch, TensorFlow, Pandas, NumPy
-
-**NLP:**  
-BioBERT, ClinicalBERT, Text Processing
-
-**Data Engineering & Tools:**  
-Snowflake, ETL pipelines, Streamlit, Git, Tableau
-
-**Cloud:**  
-AWS, Azure
+I enjoy exploring how data can be used to understand patterns, support better decisions, and build intelligent systems.  
+Most of the projects here are experiments around applied machine learning, data analysis, and practical data science workflows.
 
 ---
 
-## Featured Projects
+### What You'll Find Here
 
-### Diabetes Risk Prediction
-Machine learning model to predict diabetes risk using health indicators and clinical data.
+This space is where I experiment with ideas and build projects around interesting data problems.
 
-**Tech:** Python, Scikit-learn, Pandas  
-Repo: https://github.com/SanaPatekari/DiabeticsPrediction
+Projects here explore topics such as:
 
----
-
-### Skin Lesion Image Segmentation
-Computer vision project for medical image segmentation using deep learning techniques.
-
-**Tech:** PyTorch, CNN, Image Processing  
-Repo: https://github.com/SanaPatekari/ISIC_Image_Segmentation
+• machine learning models  
+• behavioral and customer data analysis  
+• natural language processing  
+• predictive modeling  
+• experimentation with real-world datasets
 
 ---
 
-### Customer Behavior Segmentation
-Clustering and analytics to identify customer segments and purchasing patterns.
+### Current Focus
 
-**Tech:** Python, K-Means, Data Visualization  
-Repo: https://github.com/SanaPatekari/customer-behavior-segmentation
+Lately I've been exploring problems involving:
 
----
-
-### Clinical Abbreviation Expander
-NLP system for expanding medical abbreviations in clinical notes.
-
-**Tech:** Python, NLP, Clinical Text Processing  
-Repo: https://github.com/SanaPatekari/clinical-abbreviation-expander
-
----
-
-### Fingerprint Spoof Detection
-Computer vision project to detect fake fingerprints using deep learning models.
-
-**Tech:** CNN, Image Processing, Python  
-Repo: https://github.com/SanaPatekari/Fingerprint-Spoof-Detection
-
----
-
-## Certifications
-
-• Microsoft Azure AI Fundamentals  
-• Microsoft Azure Data Scientist Associate  
-• Microsoft Azure Data Engineer Associate  
+• applied machine learning  
+• data-driven decision systems  
+• text and unstructured data  
+• practical analytics workflows
 
 ---
 
