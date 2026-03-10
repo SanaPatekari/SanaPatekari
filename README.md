@@ -1,60 +1,44 @@
-<h1 align="center">Hi, I'm Sana 👋</h1>
+<h1 align="center">Sana</h1>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com/?lines=Data+Scientist;Machine+Learning+Explorer;Building+with+Data;Always+Learning&center=true&width=500&height=45">
+Data Scientist
 </p>
 
 <p align="center">
-Exploring machine learning, analytics, and real-world data problems.
+Exploring machine learning, analytics, and data-driven systems
 </p>
 
 
-## Featured Projects
+### Work
 
-<p align="center">
+I enjoy working on applied machine learning problems where data, modeling, and decision making intersect.
 
-<a href="https://github.com/SanaPatekari/customer-behavior-segmentation">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=SanaPatekari&repo=customer-behavior-segmentation">
-</a>
-
-<a href="https://github.com/SanaPatekari/ISIC_Image_Segmentation">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=SanaPatekari&repo=ISIC_Image_Segmentation">
-</a>
-
-<a href="https://github.com/SanaPatekari/DiabeticsPrediction">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=SanaPatekari&repo=DiabeticsPrediction">
-</a>
-
-<a href="https://github.com/SanaPatekari/Fingerprint-Spoof-Detection">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=SanaPatekari&repo=Fingerprint-Spoof-Detection">
-</a>
-
-</p>
+My work explores practical approaches to understanding complex datasets and building analytical systems that help uncover meaningful patterns.
 
 
-## About
+### Projects
 
-I enjoy working on applied data science problems where machine learning and analytics help uncover useful insights.
+Recent work here explores topics such as:
 
-Most of the projects here explore practical machine learning workflows, experimentation with real datasets, and building data-driven solutions.
-
-
-## GitHub Activity
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=SanaPatekari&show_icons=true&hide_border=true">
-</p>
-
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=SanaPatekari&hide_border=true">
-</p>
+• machine learning experimentation  
+• natural language processing  
+• behavioral data analysis  
+• predictive modeling  
+• real-world datasets
 
 
-## Connect
+### Current Interests
 
-<p align="center">
+Applied machine learning  
+Data-driven decision systems  
+Text and unstructured data  
+Analytics workflows
 
-<a href="https://linkedin.com/in/sana-m-patekari">LinkedIn</a>  
-<a href="https://sanapatekari.github.io/portfolio">Portfolio</a>
 
-</p>
+### Elsewhere
+
+LinkedIn  
+https://linkedin.com/in/sana-m-patekari  
+
+Portfolio  
+https://sanapatekari.github.io/portfolio
