@@ -13,26 +13,26 @@ Exploring machine learning, analytics, and data-driven systems
 
 I enjoy working on applied machine learning problems where data, modeling, and decision making intersect.
 
-My work explores practical approaches to understanding complex datasets and building analytical systems that help uncover meaningful patterns.
+Most of the work here explores practical approaches to understanding complex datasets and building analytical systems that help uncover meaningful patterns.
 
 
 ### Projects
 
-Recent work here explores topics such as:
+Projects here explore topics such as
 
-• machine learning experimentation  
-• natural language processing  
-• behavioral data analysis  
-• predictive modeling  
-• real-world datasets
+machine learning experimentation  
+natural language processing  
+behavioral data analysis  
+predictive modeling  
+working with real-world datasets
 
 
 ### Current Interests
 
-Applied machine learning  
-Data-driven decision systems  
-Text and unstructured data  
-Analytics workflows
+applied machine learning  
+data-driven decision systems  
+text and unstructured data  
+analytics workflows
 
 
 ### Elsewhere
