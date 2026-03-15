@@ -29,10 +29,10 @@ working with real-world datasets
 
 ### Current Interests
 
-applied machine learning  
-data-driven decision systems  
-text and unstructured data  
-analytics workflows
+Applied machine learning  
+Data-driven decision systems  
+Text and unstructured data  
+Analytics workflows
 
 
 ### Elsewhere
